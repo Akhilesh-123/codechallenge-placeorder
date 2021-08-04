@@ -1,0 +1,14 @@
+This is a Maven, testNG Framework.
+Framework/Code contains below classes
+1. DriverClass - Base Class - testNG Annotations - are written
+2. MyListener - Implementing WebDriverEventListener
+3. ObjectRepository - All the objects realted to application are stored here
+4. BusinessFunctions_PipinTitle - Business Functions, Selenium Methods are written here
+5. TestCase_Scenario_01 - Test Script
+6. Files require for File Upload - Files are stored in the folder named 'testdata'
+7. Extent Reports have been used to for reporting - under 'reports' folder the reports will be generated.
+
+
+How to run the Automation Script
+1. Test Script can be executed by running testng.xml as testng suite.
+2. Once the execution is completed - under 'reports' folder the reports will be generated.
