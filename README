@@ -10,6 +10,12 @@ Framework/Code contains below classes
 
 
 How to run the Automation Script
-1. Import the project to eclipse - Maven Project
+From Eclipse
+1. Import the project to eclipse - Maven Projecthttps://github.com/Akhilesh-123/codechallenge-placeorder/blob/main/README
 2. Test Script can be executed by running testng.xml as testng suite.
 3. Once the execution is completed - under 'reports' folder the reports will be generated.
+
+Through Maven Command
+1. Download the project to the local system.
+2. Run the Maven command to execute the scripts - 'mvn clean test'
+
